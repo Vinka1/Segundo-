@@ -1,0 +1,5 @@
+﻿Opening repositories:
+C:\
+An existing Git repository was found in C:\Users\Pozo_Nayra.
+Opening repositories:
+C:\Users\Pozo_Nayra
